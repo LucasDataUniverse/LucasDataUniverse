@@ -11,6 +11,7 @@
 
 ☁️ Azure Certified:
 - Microsoft Certified: Azure Fundamentals.
+- Microsoft Certified: Azure Data Fundamentals.
 
 ☁️ AWS Certified:
 - Em andamento.
